@@ -25,16 +25,38 @@ Just run the script with Python3.
 
 ## Example
 
-When you run the script, with keywords "github", "kaan" and "repo", it will generate words most likely passwords like;
-(github is the most important one - script will explain you what that is)
 ```
 
-Tgithub48T
-!!!!Github!!!!22
-repoQ85
-githubrepo71C
-...
-With theese keywords, it will generate 81,046,746 combined word.
+--CPU--
+Cpu Family = Intel64 Family 6 Model 42 Stepping 7, GenuineIntel
+Cpu Name = Intel(R) Core(TM) i5-2300 CPU @ 2.80GHz
+Core Count = 4
+Percentage = 10.4%
+--RAM--
+Total = 6126 mb
+Available = 3047 mb
+Percentage = 50.3%
+Used = 3078 mb
+Free = 3047 mb
+--DISK--
+MOUNTED
+----
+Device = C:\
+Mount Point = C:\
+fstype = NTFS
+opts = rw,fixed
+Usage;
+Total = 348.4 Gb
+Used = 100.7 Gb
+Free = 247.6 Gb
+Percent = 28.9%
+----
+UNMOUNTED
+D:\
+E:\
+F:\
+G:\
+H:\
 
 ```
 
