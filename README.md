@@ -31,13 +31,19 @@ Just run the script with Python3.
 Cpu Family = Intel64 Family 6 Model 42 Stepping 7, GenuineIntel
 Cpu Name = Intel(R) Core(TM) i5-2300 CPU @ 2.80GHz
 Core Count = 4
-Percentage = 10.4%
+Arch = X86_64
+Bits = 64
+Arch String = AMD64
+Known Hz = 2.8000 GHz
+Actual Hz = 1.5960 GHz
+Cache Size = 1024 KB
+Percentage = 5.0%
 --RAM--
 Total = 6126 mb
-Available = 3047 mb
-Percentage = 50.3%
-Used = 3078 mb
-Free = 3047 mb
+Available = 2968 mb
+Percentage = 51.5%
+Used = 3157 mb
+Free = 2968 mb
 --DISK--
 MOUNTED
 ----
